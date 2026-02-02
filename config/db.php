@@ -31,9 +31,9 @@ loadEnv(__DIR__ . '/../.env');
 
 // Database configuration
 define('DB_HOST', $_ENV['DB_HOST'] ?? 'localhost');
-define('DB_NAME', $_ENV['DB_NAME'] ?? 'clinic_appointment_db');
-define('DB_USER', $_ENV['DB_USER'] ?? 'root');
-define('DB_PASS', $_ENV['DB_PASS'] ?? '');
+define('DB_NAME', $_ENV['DB_NAME'] ?? 'np02cs4a240118');
+define('DB_USER', $_ENV['DB_USER'] ?? 'np02cs4a240118');
+define('DB_PASS', $_ENV['DB_PASS'] ?? 'YWkI5Vz8XD');
 define('DB_CHARSET', $_ENV['DB_CHARSET'] ?? 'utf8mb4');
 
 /**
